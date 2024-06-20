@@ -59,13 +59,13 @@ Refer to the README files within each submodule for specific requirements.
 
 # Next Steps
 
-    Change Model Configurations: Adjust the configurations of the models to better suit your specific needs or experiment with different settings.
+- *Change Model Configurations*: Adjust the configurations of the models to better suit your specific needs or experiment with different settings.
 
-    Evaluate Pre-trained Models: Test different pre-trained models to assess their performance on the SynthTabNet dataset (Or any other dataset with the same structure).
+- *Evaluate Pre-trained Model*s: Test different pre-trained models to assess their performance on the SynthTabNet dataset (Or any other dataset with the same structure).
 
-    Fine-tuning: Fine-tune the models on any other relevant dataset to potentially improve performance.
+- *Fine-tuning*: Fine-tune the models on any other relevant dataset to potentially improve performance.
 
-    Create Metrics and Compare Results: Use the same tools to generate the S-TEDS metrics and compare the results across different configurations or fine-tuned models.
+- *Create Metrics and Compare Results*: Use the same tools to generate the S-TEDS metrics and compare the results across different configurations or fine-tuned models.
 
 # Contact
 
