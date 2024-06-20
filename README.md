@@ -56,3 +56,17 @@ Refer to the README files within each submodule for specific requirements.
 5. Run Experiments:
     - Run `unitable\model_evaluation\test_model.py` to generate CSV files that compiles the S-TEDS value of Unitable predictions against the ground truth for each of the SynthTabNet categories.
     - Run `table-transformer\src\test_model.py` to generate CSV files that compiles the S-TEDS value of TATR predictions against the ground truth for each of the SynthTabNet categories.
+
+# Next Steps
+
+    Change Model Configurations: Adjust the configurations of the models to better suit your specific needs or experiment with different settings.
+
+    Evaluate Pre-trained Models: Test different pre-trained models to assess their performance on the SynthTabNet dataset (Or any other dataset with the same structure).
+
+    Fine-tuning: Fine-tune the models on any other relevant dataset to potentially improve performance.
+
+    Create Metrics and Compare Results: Use the same tools to generate the S-TEDS metrics and compare the results across different configurations or fine-tuned models.
+
+# Contact
+
+For any questions or issues, please open an issue in this repository or contact me at `jmgarzonv1@eafit.edu.co`.
