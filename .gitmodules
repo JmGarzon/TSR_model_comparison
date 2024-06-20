@@ -1,0 +1,6 @@
+[submodule "unitable"]
+	path = unitable
+	url = https://github.com/JmGarzon/unitable.git
+[submodule "table-transformer"]
+	path = table-transformer
+	url = https://github.com/JmGarzon/table-transformer.git
