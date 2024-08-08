@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Garzón Vargas"
+  given-names: "Jose Miguel"
+title: "TSR_model_comparison"
+version: 1.0.0
+date-released: 2024-08-07
+url: "https://github.com/JmGarzon/TSR_model_comparison"
